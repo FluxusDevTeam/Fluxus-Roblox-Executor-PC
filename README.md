@@ -1,6 +1,6 @@
 # Fluxus-Roblox-Executor-PC
 
-NOW SUPPORTS HAS AN ANDROID OPTION
+NOW HAS AN ANDROID OPTION
 
 PC: https://github.com/FluxusDevTeam/Fluxus-Roblox-Executor-PC/releases/tag/pc
 
